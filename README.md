@@ -1,4 +1,31 @@
+# 🚀 AWS EC2 Web Server Project
+
 ![Project Status](https://img.shields.io/badge/status-completed-brightgreen)
+![Cloud](https://img.shields.io/badge/cloud-AWS-orange)
+![Level](https://img.shields.io/badge/level-beginner-blue)
+
+---
+
+## 🧠 Architecture
+
+This project uses a simple cloud architecture:
+
+User → Internet → EC2 (Web Server)
+
+---
+
+## 📌 Key Features
+
+* Deployed a live web server on AWS
+* Configured secure access using Security Groups
+* Installed and managed Apache service
+* Hosted a static website
+
+---
+
+
+
+
  # 🚀 AWS EC2 Web Server Project
 
 ## 📌 Project Overview
@@ -67,4 +94,16 @@ Successfully hosted a static web page using EC2.
 ---
 
 ✨ This is my first step into Cloud & DevOps journey.
+
+
+## 💼 Resume Impact
+
+This project demonstrates:
+
+* Cloud infrastructure setup using AWS EC2
+* Basic system administration (Linux)
+* Web server deployment and configuration
+* Understanding of networking (ports, security groups)
+
+---
 
