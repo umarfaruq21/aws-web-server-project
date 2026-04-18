@@ -26,8 +26,6 @@ User → Internet → EC2 (Web Server)
 
 
 
- # 🚀 AWS EC2 Web Server Project
-
 ## 📌 Project Overview
 
 This project demonstrates how to launch and configure a web server on AWS EC2.
@@ -106,4 +104,42 @@ This project demonstrates:
 * Understanding of networking (ports, security groups)
 
 ---
+## 🌐 VPC Setup
+
+### 📌 Overview
+
+Created a custom Virtual Private Cloud (VPC) to simulate a real-world cloud network architecture.
+
+### ⚙️ Configuration
+
+* VPC CIDR: 10.0.0.0/16
+* Public Subnet: 10.0.1.0/24
+* Private Subnet: 10.0.2.0/24
+
+### 🔐 Components Configured
+
+* Internet Gateway attached to VPC
+* Route Table configured for public subnet
+* Enabled internet access for public subnet
+
+### 📚 Learning Outcome
+
+* Understood VPC architecture
+* Learned subnetting and routing
+* Configured secure and scalable network structure
+  
+### 📸 VPC Screenshots
+**VPC**
+<img width="1873" height="725" alt="My VPC" src="https://github.com/user-attachments/assets/2988fa96-68d3-4c34-a422-6a88cdaec080" />
+
+**Subnets**
+<img width="1918" height="698" alt="Public   Private Subnets" src="https://github.com/user-attachments/assets/0d98478e-8fb0-4295-8c4b-44c27e04dbc8" />
+
+**Route Table**
+<img width="1920" height="715" alt="Public Route table" src="https://github.com/user-attachments/assets/7a9812d6-de7f-4088-a8b8-e8ddd9d3d198" />
+
+**IGW**
+<img width="1882" height="753" alt="My IGW" src="https://github.com/user-attachments/assets/19845bf4-d267-4fec-80f6-5473ce58c936" />
+
+
 
