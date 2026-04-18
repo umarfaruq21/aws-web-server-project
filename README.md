@@ -141,5 +141,39 @@ Created a custom Virtual Private Cloud (VPC) to simulate a real-world cloud netw
 **IGW**
 <img width="1882" height="753" alt="My IGW" src="https://github.com/user-attachments/assets/19845bf4-d267-4fec-80f6-5473ce58c936" />
 
+## 🚀 EC2 Deployment in Custom VPC
+
+### 📌 Overview
+
+Launched an EC2 instance inside a custom VPC and public subnet.
+
+### ⚙️ Configuration
+
+* VPC: My-VPC
+* Subnet: Public-Subnet
+* Public IP: Enabled
+
+### 🔧 Setup
+
+* Installed Apache web server
+* Hosted a static website
+
+### 📚 Learning Outcome
+
+* Understood EC2 deployment inside VPC
+* Learned subnet-based architecture
+* Configured internet access for instances
+
+### 📸 Screenshots
+
+**EC2 inside VPC
+Subnet selected**
+
+<img width="1920" height="751" alt="EC2 inside VPC   Subnet selected" src="https://github.com/user-attachments/assets/ada13571-e6b4-461a-80d2-776b28832bb9" />
+
+**Website output**
+
+<img width="1920" height="638" alt="Website output" src="https://github.com/user-attachments/assets/9aa65412-e320-4b72-afd2-45a51dc2b663" />
+
 
 
